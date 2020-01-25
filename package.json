@@ -1,0 +1,23 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "This is a webpack learning folder.\r Enjoy!\r But first, I should review the git process.\r Git is a distributed version control system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyooooooo/webpack-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyooooooo/webpack-study/issues"
+  },
+  "homepage": "https://github.com/dyooooooo/webpack-study#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
