@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/dyooooooo/webpack-study#readme",
   "devDependencies": {
-    "webpack": "^4.41.5",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^3.10.1"
   }
 }
